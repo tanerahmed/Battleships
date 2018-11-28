@@ -1,0 +1,1 @@
+Well done! You completed the game in <?= $this->shoots ?> shots. <br>
